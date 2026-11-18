@@ -1,0 +1,105 @@
+{
+  "slug": "minesweeper-plus",
+  "title": "Minesweeper Plus",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/mineplus.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/mineplus.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/mineseplu.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/mineplus.html",
+  "entryUrl": "https://truffled.lol/gamefile/mineplus.html",
+  "status": "done",
+  "sizeBytes": 91803006,
+  "assetCount": 24,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/MinesweeperPlus.pck",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/MinesweeperPlus.pck",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/MinesweeperPlus.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/MinesweeperPlus.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/godot.audio.position.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/godot.audio.position.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/godot.audio.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/godot.audio.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.audio.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.audio.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.audio.position.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.audio.position.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.side.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.side.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/minesweeperplus/.wasm",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:18:45.248Z",
+  "verifiedAt": "2026-11-17T14:19:51.939Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "MinesweeperPlus",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.5906,
+    "rendered": true
+  }
+}

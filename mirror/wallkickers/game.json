@@ -1,0 +1,52 @@
+{
+  "slug": "wallkickers",
+  "title": "Wallkickers",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/wallkickers/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/wallkickers/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/wallkickers.webp",
+  "baseUrl": "https://truffled.lol/games/wallkickers/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/wallkickers/index.html",
+  "status": "done",
+  "sizeBytes": 86486579,
+  "assetCount": 11,
+  "known404": [
+    "https://truffled.lol/images/module0.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/images/module0.json",
+      "error": "HTTP 404 for https://truffled.lol/images/module0.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T03:23:28.929Z",
+  "verifiedAt": "2026-11-18T03:23:39.147Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Wall Kickers",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 352,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9811,
+    "rendered": true
+  }
+}

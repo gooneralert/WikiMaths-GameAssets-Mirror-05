@@ -1,0 +1,31 @@
+{
+  "slug": "go-to-bed",
+  "title": "Go to bed",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/GTB/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/GTB/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gotobed.webp",
+  "baseUrl": "https://truffled.lol/games/GTB/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/GTB/index.html",
+  "status": "done",
+  "sizeBytes": 93132517,
+  "assetCount": 10,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/GTB/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:21:15.891Z"
+}

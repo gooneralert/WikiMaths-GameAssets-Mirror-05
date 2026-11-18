@@ -1,0 +1,13 @@
+{
+  "/games/wallkickers/app.data": "/app.data",
+  "/games/wallkickers/app.js": "/app.js",
+  "/games/wallkickers/app.wasm": "/app.wasm",
+  "/games/wallkickers/index.html": "/index.html",
+  "https://fonts.googleapis.com/css2?family=Lilita+One&display=swap": "/__external__/fonts.googleapis.com/css2.__q52a8b8c3",
+  "https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbYE98RWq7.woff2": "/__external__/fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbYE98RWq7.woff2",
+  "https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbYEF8RQ.woff2": "/__external__/fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbYEF8RQ.woff2",
+  "https://truffled.lol/games/wallkickers/app.data": "/app.data",
+  "https://truffled.lol/games/wallkickers/app.js": "/app.js",
+  "https://truffled.lol/games/wallkickers/app.wasm": "/app.wasm",
+  "https://truffled.lol/games/wallkickers/index.html": "/index.html"
+}

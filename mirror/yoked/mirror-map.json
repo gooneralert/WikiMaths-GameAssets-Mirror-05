@@ -1,0 +1,15 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/gamefile/yoked.html": "/yoked.html",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get%20yoked/Build/Web.data.part1": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get yoked/Build/Web.data.part1",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get%20yoked/Build/Web.data.part2": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get yoked/Build/Web.data.part2",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get%20yoked/Build/Web.framework.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get yoked/Build/Web.framework.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get%20yoked/Build/Web.loader.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get yoked/Build/Web.loader.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get%20yoked/Build/Web.wasm.part1": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get yoked/Build/Web.wasm.part1",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get%20yoked/Build/Web.wasm.part2": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get yoked/Build/Web.wasm.part2",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get%20yoked/Build/Web.wasm.part3": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get yoked/Build/Web.wasm.part3",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get%20yoked/StreamingAssets/Master.bank": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get yoked/StreamingAssets/Master.bank",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get%20yoked/StreamingAssets/Master.strings.bank": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/get yoked/StreamingAssets/Master.strings.bank",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/gamefile/yoked.html": "/yoked.html"
+}

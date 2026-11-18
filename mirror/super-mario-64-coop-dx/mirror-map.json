@@ -1,0 +1,22 @@
+{
+  "/404": "/.wav.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/sm64coop/.mp3": "/.mp3.html",
+  "/games/sm64coop/.ogg": "/.ogg.html",
+  "/games/sm64coop/.wav": "/.wav.html",
+  "/games/sm64coop/sm64coopdx.data": "/sm64coopdx.data",
+  "/games/sm64coop/sm64coopdx.html": "/sm64coopdx.html",
+  "/games/sm64coop/sm64coopdx.js": "/sm64coopdx.js",
+  "/games/sm64coop/sm64coopdx.wasm": "/sm64coopdx.wasm",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/.wav.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/sm64coop/.mp3": "/.mp3.html",
+  "https://truffled.lol/games/sm64coop/.ogg": "/.ogg.html",
+  "https://truffled.lol/games/sm64coop/.wav": "/.wav.html",
+  "https://truffled.lol/games/sm64coop/sm64coopdx.data": "/sm64coopdx.data",
+  "https://truffled.lol/games/sm64coop/sm64coopdx.html": "/sm64coopdx.html",
+  "https://truffled.lol/games/sm64coop/sm64coopdx.js": "/sm64coopdx.js",
+  "https://truffled.lol/games/sm64coop/sm64coopdx.wasm": "/sm64coopdx.wasm",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

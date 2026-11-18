@@ -1,0 +1,436 @@
+{
+  "slug": "super-mario-64-coop-dx",
+  "title": "Super Mario 64 Coop DX",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/sm64coop/sm64coopdx.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/sm64coop/sm64coopdx.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/sm64coop.avif",
+  "baseUrl": "https://truffled.lol/games/sm64coop/",
+  "entry": "/sm64coopdx.html",
+  "entryUrl": "https://truffled.lol/games/sm64coop/sm64coopdx.html",
+  "status": "done",
+  "sizeBytes": 94648677,
+  "assetCount": 20,
+  "known404": [
+    "https://truffled.lol/sm64coopdx/sm64config.txt",
+    "https://truffled.lol/sm64coopdx/sm64config-backup.txt",
+    "https://truffled.lol/games/sm64coop/sm64coopdx-saves.zip",
+    "https://truffled.lol/games/sm64coop/build/us_web/sm64coopdx.data",
+    "https://truffled.lol/games/sm64coop/datafile_build/us_web/sm64coopdx.data",
+    "https://truffled.lol/mods/arena/actors/arena_ball_geo.bin",
+    "https://truffled.lol/mods/arena/actors/arena_flag_blue_geo.bin",
+    "https://truffled.lol/mods/arena/actors/arena_flag_red_geo.bin",
+    "https://truffled.lol/mods/arena/actors/arena_flag_white_geo.bin",
+    "https://truffled.lol/mods/arena/actors/koth_active_geo.bin",
+    "https://truffled.lol/mods/arena/actors/fire_flower.bin",
+    "https://truffled.lol/mods/arena/actors/hammer_geo.bin",
+    "https://truffled.lol/mods/arena/actors/cannon_box_geo.bin",
+    "https://truffled.lol/mods/arena/actors/koth_geo.bin",
+    "https://truffled.lol/mods/arena/actors/spring_bottom_geo.bin",
+    "https://truffled.lol/mods/arena/actors/skybox_blimpcity_geo.bin",
+    "https://truffled.lol/mods/arena/sound/city.ogg",
+    "https://truffled.lol/mods/arena/actors/spring_top_geo.bin",
+    "https://truffled.lol/mods/arena/sound/snow.ogg",
+    "https://truffled.lol/mods/arena/sound/rainbow.ogg",
+    "https://truffled.lol/mods/day-night-cycle/actors/dnc_skybox_geo.bin",
+    "https://truffled.lol/mods/sm74/actors/grate_door_geo.bin",
+    "https://truffled.lol/mods/sm74/actors/lll_geo_rotate_firebars.bin",
+    "https://truffled.lol/mods/sm74/actors/mad_toad_geo.bin",
+    "https://truffled.lol/mods/sm74/actors/lll_geo_sinking_rock.bin",
+    "https://truffled.lol/mods/sm74/actors/star_door_geo.bin",
+    "https://truffled.lol/mods/sm74/actors/star_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/bobomb_buddy_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/bowser_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/bowser_geo_no_shadow.bin",
+    "https://truffled.lol/mods/star-road/actors/breakable_box_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/breakable_box_small_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/bubbly_tree_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/bully_boss_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/bully_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/cabin_door_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/castle_door_0_star_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/castle_door_1_star_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/castle_door_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/castle_door_3_star_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/dorrie_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/exclamation_box_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/custom_shyguy_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/exclamation_box_outline_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/eyerok_left_hand_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/eyerok_right_hand_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/flyguy_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/haunted_door_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/key_door_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/hazy_maze_door_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/metal_door_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/metal_box_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/mr_i_iris_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/palm_tree_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/pokey_body_part_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/snow_tree_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/pokey_head_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/spiky_tree1_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/vcutm_light_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/spiky_tree_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/wiggler_body_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/wiggler_head_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/wooden_door2_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/wooden_door_geo.bin",
+    "https://truffled.lol/mods/star-road/actors/yoshi_egg_geo.bin"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/sm64coopdx/sm64config.txt",
+      "error": "HTTP 404 for https://truffled.lol/sm64coopdx/sm64config.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/sm64coopdx/sm64config-backup.txt",
+      "error": "HTTP 404 for https://truffled.lol/sm64coopdx/sm64config-backup.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/sm64coop/sm64coopdx-saves.zip",
+      "error": "HTTP 404 for https://truffled.lol/games/sm64coop/sm64coopdx-saves.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/sm64coop/build/us_web/sm64coopdx.data",
+      "error": "HTTP 404 for https://truffled.lol/games/sm64coop/build/us_web/sm64coopdx.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/sm64coop/datafile_build/us_web/sm64coopdx.data",
+      "error": "HTTP 404 for https://truffled.lol/games/sm64coop/datafile_build/us_web/sm64coopdx.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/arena_ball_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/arena_ball_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/arena_flag_blue_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/arena_flag_blue_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/arena_flag_red_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/arena_flag_red_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/arena_flag_white_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/arena_flag_white_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/koth_active_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/koth_active_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/fire_flower.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/fire_flower.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/hammer_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/hammer_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/cannon_box_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/cannon_box_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/koth_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/koth_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/spring_bottom_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/spring_bottom_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/skybox_blimpcity_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/skybox_blimpcity_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/sound/city.ogg",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/sound/city.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/actors/spring_top_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/actors/spring_top_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/sound/snow.ogg",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/sound/snow.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/arena/sound/rainbow.ogg",
+      "error": "HTTP 404 for https://truffled.lol/mods/arena/sound/rainbow.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/day-night-cycle/actors/dnc_skybox_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/day-night-cycle/actors/dnc_skybox_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/sm74/actors/grate_door_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/sm74/actors/grate_door_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/sm74/actors/lll_geo_rotate_firebars.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/sm74/actors/lll_geo_rotate_firebars.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/sm74/actors/mad_toad_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/sm74/actors/mad_toad_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/sm74/actors/lll_geo_sinking_rock.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/sm74/actors/lll_geo_sinking_rock.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/sm74/actors/star_door_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/sm74/actors/star_door_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/sm74/actors/star_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/sm74/actors/star_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/bobomb_buddy_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/bobomb_buddy_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/bowser_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/bowser_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/bowser_geo_no_shadow.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/bowser_geo_no_shadow.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/breakable_box_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/breakable_box_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/breakable_box_small_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/breakable_box_small_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/bubbly_tree_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/bubbly_tree_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/bully_boss_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/bully_boss_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/bully_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/bully_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/cabin_door_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/cabin_door_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/castle_door_0_star_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/castle_door_0_star_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/castle_door_1_star_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/castle_door_1_star_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/castle_door_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/castle_door_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/castle_door_3_star_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/castle_door_3_star_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/dorrie_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/dorrie_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/exclamation_box_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/exclamation_box_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/custom_shyguy_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/custom_shyguy_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/exclamation_box_outline_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/exclamation_box_outline_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/eyerok_left_hand_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/eyerok_left_hand_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/eyerok_right_hand_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/eyerok_right_hand_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/flyguy_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/flyguy_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/haunted_door_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/haunted_door_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/key_door_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/key_door_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/hazy_maze_door_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/hazy_maze_door_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/metal_door_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/metal_door_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/metal_box_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/metal_box_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/mr_i_iris_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/mr_i_iris_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/palm_tree_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/palm_tree_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/pokey_body_part_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/pokey_body_part_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/snow_tree_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/snow_tree_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/pokey_head_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/pokey_head_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/spiky_tree1_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/spiky_tree1_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/vcutm_light_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/vcutm_light_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/spiky_tree_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/spiky_tree_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/wiggler_body_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/wiggler_body_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/wiggler_head_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/wiggler_head_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/wooden_door2_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/wooden_door2_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/wooden_door_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/wooden_door_geo.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/mods/star-road/actors/yoshi_egg_geo.bin",
+      "error": "HTTP 404 for https://truffled.lol/mods/star-road/actors/yoshi_egg_geo.bin",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T23:37:35.477Z",
+  "verifiedAt": "2026-11-17T23:37:45.789Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Super Mario 64 Coop Deluxe v1.5.1",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9816,
+    "rendered": true
+  }
+}

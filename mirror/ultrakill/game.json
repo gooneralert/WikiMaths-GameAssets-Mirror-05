@@ -1,0 +1,99 @@
+{
+  "slug": "ultrakill",
+  "title": "ULTRAKILL",
+  "type": "HTML",
+  "developer": "Arsi \"Hakita\" Patala",
+  "description": "ULTRAKILL is a fast-paced ultra-violent retro FPS that combines the skill-based style scoring of character action games with the unadulterated carnage inspired by the best shooters of the '90s. Rip apart your foes with varied destructive weaponry and shower in their blood to regain your health.",
+  "tags": [
+    "3D",
+    "Action",
+    "Difficult",
+    "FPS",
+    "Gore",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "0977c06a-33a0-42ee-950b-89bca04a76a4",
+  "sourceVersion": "1.05",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/index.html",
+  "status": "done",
+  "sizeBytes": 98058015,
+  "assetCount": 18,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/ultrakill.wasm.unityweb",
+    "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/ultrakill.data.unityweb",
+    "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/zstream.js",
+    "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/constants.js",
+    "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/utils/strings.js",
+    "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/messages.js",
+    "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/inftrees.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/ultrakill.wasm.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/ultrakill.wasm.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/ultrakill.data.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/ultrakill.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/utils/strings.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/0977c06a-33a0-42ee-950b-89bca04a76a4/1.05/Build/zlib/inftrees.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:53:31.763Z",
+  "verifiedAt": "2026-11-16T16:17:56.500Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "ULTRAKILL",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0233,
+    "rendered": true
+  }
+}
