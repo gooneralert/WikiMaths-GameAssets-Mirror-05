@@ -1,0 +1,31 @@
+{
+  "slug": "gacha-verse",
+  "title": "Gacha Verse",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/verse.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/verse.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gachaverse.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/verse.html",
+  "entryUrl": "https://truffled.lol/gamefile/verse.html",
+  "status": "done",
+  "sizeBytes": 93639260,
+  "assetCount": 4,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://truffled.lol/gamefile/verse.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:20:01.688Z"
+}

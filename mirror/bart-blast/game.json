@@ -1,0 +1,89 @@
+{
+  "slug": "bart-blast",
+  "title": "Bart Blast",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/bart.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/bart.html",
+  "entryUrl": "https://truffled.lol/gamefile/bart.html",
+  "status": "done",
+  "sizeBytes": 86532681,
+  "assetCount": 32,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/index.pck",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/index.pck",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/index.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/index.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/godot.audio.position.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/godot.audio.position.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/godot.audio.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/godot.audio.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.audio.position.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.audio.position.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.audio.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.audio.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.side.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.side.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/bart-blast/.wasm",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-16T13:36:27.084Z",
+  "verifiedAt": "2026-11-16T13:37:48.940Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "BART BLAST (INDEV VERSION) (DEBUG)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8651,
+    "rendered": true
+  }
+}

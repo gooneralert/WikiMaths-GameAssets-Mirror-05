@@ -1,0 +1,31 @@
+{
+  "slug": "gacha-life",
+  "title": "Gacha Life",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/life.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/life.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gachalife.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/life.html",
+  "entryUrl": "https://truffled.lol/gamefile/life.html",
+  "status": "done",
+  "sizeBytes": 91921116,
+  "assetCount": 4,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://truffled.lol/gamefile/life.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:18:37.337Z"
+}

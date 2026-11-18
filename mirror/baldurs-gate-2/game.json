@@ -1,0 +1,1247 @@
+{
+  "slug": "baldurs-gate-2",
+  "title": "Baldurs Gate 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/baldurs-gate-2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/baldurs-gate-2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gate2.webp",
+  "baseUrl": "https://truffled.lol/games/baldurs-gate-2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/baldurs-gate-2/index.html",
+  "status": "done",
+  "sizeBytes": 93483056,
+  "assetCount": 56,
+  "known404": [
+    "https://truffled.lol/games/baldurs-gate-2/datafile_gemrb/gemrb.data",
+    "https://truffled.lol/resources_to_dl.bin",
+    "https://truffled.lol/has_file.bin",
+    "https://truffled.lol/Lib/LICENSE.txt",
+    "https://truffled.lol/Lib/lib2to3/Grammar.txt",
+    "https://truffled.lol/Lib/lib2to3/PatternGrammar.txt",
+    "https://truffled.lol/game/data/am0602.wav",
+    "https://truffled.lol/game/data/am0602s1.wav",
+    "https://truffled.lol/game/data/am0602s2.wav",
+    "https://truffled.lol/game/data/am0602s3.wav",
+    "https://truffled.lol/game/data/am0602s4.wav",
+    "https://truffled.lol/game/data/am0602s5.wav",
+    "https://truffled.lol/game/data/am0602s7.wav",
+    "https://truffled.lol/game/data/am0602s8.wav",
+    "https://truffled.lol/game/data/am0602s9.wav",
+    "https://truffled.lol/game/data/amb_d03a.wav",
+    "https://truffled.lol/game/data/amb_d08.wav",
+    "https://truffled.lol/game/data/amb_d22a.wav",
+    "https://truffled.lol/game/data/cas_m01.wav",
+    "https://truffled.lol/game/data/cas_m04.wav",
+    "https://truffled.lol/game/data/cas_m08.wav",
+    "https://truffled.lol/game/data/delai_05.wav",
+    "https://truffled.lol/game/data/dpjon156.wav",
+    "https://truffled.lol/game/data/dpjon157.wav",
+    "https://truffled.lol/game/data/dpjon158.wav",
+    "https://truffled.lol/game/data/dpjon159.wav",
+    "https://truffled.lol/game/data/dpjon160.wav",
+    "https://truffled.lol/game/data/dpjon161.wav",
+    "https://truffled.lol/game/data/dpjon162.wav",
+    "https://truffled.lol/game/data/eff_m03.wav",
+    "https://truffled.lol/game/data/eff_m08.wav",
+    "https://truffled.lol/game/data/eff_m09.wav",
+    "https://truffled.lol/game/data/eff_m13.wav",
+    "https://truffled.lol/game/data/eff_m18e.wav",
+    "https://truffled.lol/game/data/eff_m20.wav",
+    "https://truffled.lol/game/data/eff_m21.wav",
+    "https://truffled.lol/game/data/eff_m36b.wav",
+    "https://truffled.lol/game/data/eff_m38.wav",
+    "https://truffled.lol/game/data/eff_p18.wav",
+    "https://truffled.lol/game/data/eff_p19.wav",
+    "https://truffled.lol/game/data/eff_p23.wav",
+    "https://truffled.lol/game/data/error02.wav",
+    "https://truffled.lol/game/data/gam_01.wav",
+    "https://truffled.lol/game/data/gam_02.wav",
+    "https://truffled.lol/game/data/gam_03.wav",
+    "https://truffled.lol/game/data/gam_04.wav",
+    "https://truffled.lol/game/data/gam_05.wav",
+    "https://truffled.lol/game/data/gam_06.wav",
+    "https://truffled.lol/game/data/gam_07.wav",
+    "https://truffled.lol/game/data/gam_08.wav",
+    "https://truffled.lol/game/data/gam_09.wav",
+    "https://truffled.lol/game/data/gam_10.wav",
+    "https://truffled.lol/game/data/gam_11.wav",
+    "https://truffled.lol/game/data/gam_12a.wav",
+    "https://truffled.lol/game/data/gam_12a1.wav",
+    "https://truffled.lol/game/data/gam_12b.wav",
+    "https://truffled.lol/game/data/gam_12b1.wav",
+    "https://truffled.lol/game/data/gam_12c.wav",
+    "https://truffled.lol/game/data/gam_12c1.wav",
+    "https://truffled.lol/game/data/gam_12d.wav",
+    "https://truffled.lol/game/data/gam_12d1.wav",
+    "https://truffled.lol/game/data/gam_13a.wav",
+    "https://truffled.lol/game/data/gam_13b.wav",
+    "https://truffled.lol/game/data/gam_14a.wav",
+    "https://truffled.lol/game/data/gam_14b.wav",
+    "https://truffled.lol/game/data/gam_15a.wav",
+    "https://truffled.lol/game/data/gam_15b.wav",
+    "https://truffled.lol/game/data/gam_16a.wav",
+    "https://truffled.lol/game/data/gam_16b.wav",
+    "https://truffled.lol/game/data/gam_17a.wav",
+    "https://truffled.lol/game/data/gam_17b.wav",
+    "https://truffled.lol/game/data/gam_18a.wav",
+    "https://truffled.lol/game/data/gam_18b.wav",
+    "https://truffled.lol/game/data/gam_20a.wav",
+    "https://truffled.lol/game/data/gam_20b.wav",
+    "https://truffled.lol/game/data/gam_21a.wav",
+    "https://truffled.lol/game/data/gam_21b.wav",
+    "https://truffled.lol/game/data/gam_22a.wav",
+    "https://truffled.lol/game/data/gam_22b.wav",
+    "https://truffled.lol/game/data/gam_23a.wav",
+    "https://truffled.lol/game/data/gam_23b.wav",
+    "https://truffled.lol/game/data/gam_24.wav",
+    "https://truffled.lol/game/data/gam_24a.wav",
+    "https://truffled.lol/game/data/gam_24b.wav",
+    "https://truffled.lol/game/data/gam_25a.wav",
+    "https://truffled.lol/game/data/gam_25b.wav",
+    "https://truffled.lol/game/data/gam_26a.wav",
+    "https://truffled.lol/game/data/gam_26b.wav",
+    "https://truffled.lol/game/data/gam_27a.wav",
+    "https://truffled.lol/game/data/gam_27b.wav",
+    "https://truffled.lol/game/data/gam_28a.wav",
+    "https://truffled.lol/game/data/gam_28b.wav",
+    "https://truffled.lol/game/data/gam_29a.wav",
+    "https://truffled.lol/game/data/gam_29b.wav",
+    "https://truffled.lol/game/data/gam_30a.wav",
+    "https://truffled.lol/game/data/gam_30b.wav",
+    "https://truffled.lol/game/data/gam_31a.wav",
+    "https://truffled.lol/game/data/gam_31b.wav",
+    "https://truffled.lol/game/data/gam_32a.wav",
+    "https://truffled.lol/game/data/gam_32b.wav",
+    "https://truffled.lol/game/data/gam_33a.wav",
+    "https://truffled.lol/game/data/gam_33b.wav",
+    "https://truffled.lol/game/data/gam_34a.wav",
+    "https://truffled.lol/game/data/gam_34b.wav",
+    "https://truffled.lol/game/data/gam_36.wav",
+    "https://truffled.lol/game/data/gam_36a.wav",
+    "https://truffled.lol/game/data/gam_36b.wav",
+    "https://truffled.lol/game/data/gam_37a.wav",
+    "https://truffled.lol/game/data/gam_37b.wav",
+    "https://truffled.lol/game/data/gam_38a.wav",
+    "https://truffled.lol/game/data/gam_38b.wav",
+    "https://truffled.lol/game/data/gam_39a.wav",
+    "https://truffled.lol/game/data/gam_39b.wav",
+    "https://truffled.lol/game/data/gam_40a.wav",
+    "https://truffled.lol/game/data/gam_40b.wav",
+    "https://truffled.lol/game/data/gam_41a.wav",
+    "https://truffled.lol/game/data/gam_41b.wav",
+    "https://truffled.lol/game/data/gam_43a.wav",
+    "https://truffled.lol/game/data/gam_43b.wav",
+    "https://truffled.lol/game/data/gam_44.wav",
+    "https://truffled.lol/game/data/gam_47.wav",
+    "https://truffled.lol/game/data/gam_48.wav",
+    "https://truffled.lol/game/data/golem101.wav",
+    "https://truffled.lol/game/data/guarr06.wav",
+    "https://truffled.lol/game/data/gulp.wav",
+    "https://truffled.lol/game/data/hit_02a.wav",
+    "https://truffled.lol/game/data/ikeee_01.wav",
+    "https://truffled.lol/game/data/ikeee_02.wav",
+    "https://truffled.lol/game/data/ikeee_03.wav",
+    "https://truffled.lol/game/data/ikeee_04.wav",
+    "https://truffled.lol/game/data/ikeee_05.wav",
+    "https://truffled.lol/game/data/ikeee_06.wav",
+    "https://truffled.lol/game/data/imoen01.wav",
+    "https://truffled.lol/game/data/imoen02.wav",
+    "https://truffled.lol/game/data/imoen26.wav",
+    "https://truffled.lol/game/data/imoen27.wav",
+    "https://truffled.lol/game/data/imoen28.wav",
+    "https://truffled.lol/game/data/imoen29.wav",
+    "https://truffled.lol/game/data/imoen30.wav",
+    "https://truffled.lol/game/data/imoen31.wav",
+    "https://truffled.lol/game/data/imoen32.wav",
+    "https://truffled.lol/game/data/imoen33.wav",
+    "https://truffled.lol/game/data/imoen34.wav",
+    "https://truffled.lol/game/data/imoen35.wav",
+    "https://truffled.lol/game/data/imppp02.wav",
+    "https://truffled.lol/game/data/minsc01.wav",
+    "https://truffled.lol/game/data/paper.wav",
+    "https://truffled.lol/game/data/swi_01.wav",
+    "https://truffled.lol/game/data/swi_01a.wav",
+    "https://truffled.lol/game/data/swi_01b.wav",
+    "https://truffled.lol/game/data/swi_01c.wav",
+    "https://truffled.lol/game/data/swi_01d.wav",
+    "https://truffled.lol/game/data/swi_02.wav",
+    "https://truffled.lol/game/data/swi_02a.wav",
+    "https://truffled.lol/game/data/swi_02b.wav",
+    "https://truffled.lol/game/data/swi_02c.wav",
+    "https://truffled.lol/game/data/swi_02d.wav",
+    "https://truffled.lol/game/data/swi_03.wav",
+    "https://truffled.lol/game/data/swi_03a.wav",
+    "https://truffled.lol/game/data/swi_03b.wav",
+    "https://truffled.lol/game/data/swi_03c.wav",
+    "https://truffled.lol/game/data/swi_03d.wav",
+    "https://truffled.lol/game/data/swi_04.wav",
+    "https://truffled.lol/game/data/swi_04a.wav",
+    "https://truffled.lol/game/data/swi_04b.wav",
+    "https://truffled.lol/game/data/swi_04c.wav",
+    "https://truffled.lol/game/data/swi_04d.wav",
+    "https://truffled.lol/game/data/swi_05.wav",
+    "https://truffled.lol/game/data/swi_05a.wav",
+    "https://truffled.lol/game/data/swi_05b.wav",
+    "https://truffled.lol/game/data/swi_05c.wav",
+    "https://truffled.lol/game/data/swi_05d.wav",
+    "https://truffled.lol/game/data/swi_06.wav",
+    "https://truffled.lol/game/data/swi_06a.wav",
+    "https://truffled.lol/game/data/swi_06b.wav",
+    "https://truffled.lol/game/data/swi_06c.wav",
+    "https://truffled.lol/game/data/swi_06d.wav",
+    "https://truffled.lol/game/data/swi_07.wav",
+    "https://truffled.lol/game/data/swi_07a.wav",
+    "https://truffled.lol/game/data/swi_07b.wav",
+    "https://truffled.lol/game/data/swi_07c.wav",
+    "https://truffled.lol/game/data/swi_07d.wav",
+    "https://truffled.lol/game/data/tra_03.wav",
+    "https://truffled.lol/game/data/tuthh04.wav",
+    "https://truffled.lol/game/data/wal_03.wav",
+    "https://truffled.lol/game/data/wal_03a.wav",
+    "https://truffled.lol/game/data/wal_03b.wav",
+    "https://truffled.lol/game/data/wal_03c.wav",
+    "https://truffled.lol/game/data/wal_mt.wav",
+    "https://truffled.lol/game/data/wal_mta.wav",
+    "https://truffled.lol/game/data/wal_mtb.wav",
+    "https://truffled.lol/game/data/wal_mtc.wav",
+    "https://truffled.lol/game/data/zombi01.wav",
+    "https://truffled.lol/game/data/zombi02.wav",
+    "https://truffled.lol/game/data/zombi03.wav",
+    "https://truffled.lol/game/data/zombi04.wav",
+    "https://truffled.lol/game/data/zombi05.wav",
+    "https://truffled.lol/game/data/zombi06.wav",
+    "https://truffled.lol/game/data/zombi08.wav",
+    "https://truffled.lol/game/data/zombi09.wav",
+    "https://truffled.lol/override/bg1/CMakeLists.txt"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/baldurs-gate-2/datafile_gemrb/gemrb.data",
+      "error": "HTTP 404 for https://truffled.lol/games/baldurs-gate-2/datafile_gemrb/gemrb.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/resources_to_dl.bin",
+      "error": "HTTP 404 for https://truffled.lol/resources_to_dl.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/has_file.bin",
+      "error": "HTTP 404 for https://truffled.lol/has_file.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/Lib/LICENSE.txt",
+      "error": "HTTP 404 for https://truffled.lol/Lib/LICENSE.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/Lib/lib2to3/Grammar.txt",
+      "error": "HTTP 404 for https://truffled.lol/Lib/lib2to3/Grammar.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/Lib/lib2to3/PatternGrammar.txt",
+      "error": "HTTP 404 for https://truffled.lol/Lib/lib2to3/PatternGrammar.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/am0602.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/am0602.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/am0602s1.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/am0602s1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/am0602s2.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/am0602s2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/am0602s3.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/am0602s3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/am0602s4.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/am0602s4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/am0602s5.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/am0602s5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/am0602s7.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/am0602s7.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/am0602s8.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/am0602s8.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/am0602s9.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/am0602s9.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/amb_d03a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/amb_d03a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/amb_d08.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/amb_d08.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/amb_d22a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/amb_d22a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/cas_m01.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/cas_m01.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/cas_m04.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/cas_m04.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/cas_m08.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/cas_m08.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/delai_05.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/delai_05.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/dpjon156.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/dpjon156.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/dpjon157.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/dpjon157.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/dpjon158.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/dpjon158.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/dpjon159.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/dpjon159.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/dpjon160.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/dpjon160.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/dpjon161.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/dpjon161.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/dpjon162.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/dpjon162.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_m03.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_m03.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_m08.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_m08.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_m09.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_m09.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_m13.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_m13.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_m18e.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_m18e.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_m20.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_m20.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_m21.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_m21.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_m36b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_m36b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_m38.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_m38.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_p18.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_p18.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_p19.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_p19.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/eff_p23.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/eff_p23.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/error02.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/error02.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_01.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_01.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_02.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_02.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_03.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_03.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_04.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_04.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_05.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_05.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_06.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_06.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_07.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_07.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_08.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_08.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_09.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_09.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_10.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_10.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_11.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_11.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_12a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_12a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_12a1.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_12a1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_12b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_12b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_12b1.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_12b1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_12c.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_12c.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_12c1.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_12c1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_12d.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_12d.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_12d1.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_12d1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_13a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_13a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_13b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_13b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_14a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_14a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_14b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_14b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_15a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_15a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_15b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_15b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_16a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_16a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_16b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_16b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_17a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_17a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_17b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_17b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_18a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_18a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_18b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_18b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_20a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_20a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_20b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_20b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_21a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_21a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_21b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_21b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_22a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_22a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_22b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_22b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_23a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_23a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_23b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_23b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_24.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_24.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_24a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_24a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_24b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_24b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_25a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_25a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_25b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_25b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_26a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_26a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_26b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_26b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_27a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_27a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_27b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_27b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_28a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_28a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_28b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_28b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_29a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_29a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_29b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_29b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_30a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_30a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_30b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_30b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_31a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_31a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_31b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_31b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_32a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_32a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_32b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_32b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_33a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_33a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_33b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_33b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_34a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_34a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_34b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_34b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_36.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_36.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_36a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_36a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_36b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_36b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_37a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_37a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_37b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_37b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_38a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_38a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_38b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_38b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_39a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_39a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_39b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_39b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_40a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_40a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_40b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_40b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_41a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_41a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_41b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_41b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_43a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_43a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_43b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_43b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_44.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_44.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_47.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_47.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gam_48.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gam_48.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/golem101.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/golem101.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/guarr06.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/guarr06.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/gulp.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/gulp.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/hit_02a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/hit_02a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/ikeee_01.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/ikeee_01.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/ikeee_02.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/ikeee_02.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/ikeee_03.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/ikeee_03.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/ikeee_04.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/ikeee_04.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/ikeee_05.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/ikeee_05.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/ikeee_06.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/ikeee_06.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen01.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen01.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen02.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen02.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen26.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen26.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen27.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen27.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen28.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen28.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen29.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen29.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen30.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen30.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen31.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen31.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen32.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen32.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen33.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen33.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen34.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen34.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imoen35.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imoen35.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/imppp02.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/imppp02.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/minsc01.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/minsc01.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/paper.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/paper.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_01.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_01.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_01a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_01a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_01b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_01b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_01c.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_01c.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_01d.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_01d.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_02.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_02.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_02a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_02a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_02b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_02b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_02c.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_02c.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_02d.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_02d.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_03.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_03.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_03a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_03a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_03b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_03b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_03c.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_03c.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_03d.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_03d.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_04.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_04.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_04a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_04a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_04b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_04b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_04c.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_04c.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_04d.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_04d.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_05.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_05.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_05a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_05a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_05b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_05b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_05c.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_05c.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_05d.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_05d.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_06.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_06.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_06a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_06a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_06b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_06b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_06c.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_06c.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_06d.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_06d.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_07.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_07.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_07a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_07a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_07b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_07b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_07c.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_07c.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/swi_07d.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/swi_07d.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/tra_03.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/tra_03.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/tuthh04.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/tuthh04.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/wal_03.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/wal_03.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/wal_03a.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/wal_03a.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/wal_03b.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/wal_03b.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/wal_03c.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/wal_03c.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/wal_mt.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/wal_mt.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/wal_mta.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/wal_mta.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/wal_mtb.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/wal_mtb.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/wal_mtc.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/wal_mtc.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/zombi01.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/zombi01.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/zombi02.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/zombi02.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/zombi03.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/zombi03.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/zombi04.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/zombi04.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/zombi05.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/zombi05.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/zombi06.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/zombi06.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/zombi08.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/zombi08.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game/data/zombi09.wav",
+      "error": "HTTP 404 for https://truffled.lol/game/data/zombi09.wav",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T14:46:15.522Z",
+  "verifiedAt": "2026-11-16T13:35:38.962Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "GemRB v0.8.6-git running Baldur's Gate 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.6142,
+    "rendered": true
+  }
+}

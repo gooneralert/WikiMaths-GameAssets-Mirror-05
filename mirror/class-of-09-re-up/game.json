@@ -1,0 +1,76 @@
+{
+  "slug": "class-of-09-re-up",
+  "title": "Class Of 09 Re-Up",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/C09RU/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/C09RU/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/reup.webp",
+  "baseUrl": "https://truffled.lol/games/C09RU/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/C09RU/index.html",
+  "status": "done",
+  "sizeBytes": 93506814,
+  "assetCount": 38,
+  "known404": [
+    "https://truffled.lol/games/C09RU/web-presplash.jpg",
+    "https://truffled.lol/game.zip",
+    "https://truffled.lol/games/C09RU/savegames.zip",
+    "https://truffled.lol/lib/python3.11/lib-dynload/empty.txt",
+    "https://truffled.lol/games/C09RU/datafile_renpy.data"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/C09RU/web-presplash.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/C09RU/web-presplash.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/game.zip",
+      "error": "HTTP 404 for https://truffled.lol/game.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/C09RU/savegames.zip",
+      "error": "HTTP 404 for https://truffled.lol/games/C09RU/savegames.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/lib/python3.11/lib-dynload/empty.txt",
+      "error": "HTTP 404 for https://truffled.lol/lib/python3.11/lib-dynload/empty.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/C09RU/datafile_renpy.data",
+      "error": "HTTP 404 for https://truffled.lol/games/C09RU/datafile_renpy.data",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T12:59:23.972Z",
+  "verifiedAt": "2026-11-16T14:16:53.492Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Class of '09 | The Re-Up",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0209,
+    "rendered": true
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "arco",
+  "title": "Arco",
+  "type": "HTML",
+  "developer": "Franek, Max Cahill, Bibiki, FÃ¡yer",
+  "description": "Arco is a Mesoamerican fantasy RPG where each fight is a handcrafted bullet-hellish maelstrom that you must solve through clever use of your skills, items, and environment. While exploring the world, your narrative choices affect whether the combat skews more turn-based or real-time. Guide four indigenous heroes through intertwining stories as you battle monstrous creatures, rival nations, and greedy colonizers. Choose peace or choose violence but not all threats can be reasoned withâ¦and all roads in Arco lead to revenge. On a llama.",
+  "tags": [
+    "RPG",
+    "Tactical",
+    "Strategy",
+    "Pixel Graphics",
+    "Story Rich",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "d1fa8791-036c-48cd-b868-490706a5ffe8",
+  "sourceVersion": "2025.08.11-01-PC",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/index.html",
+  "status": "done",
+  "sizeBytes": 95017241,
+  "assetCount": 18,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/love.js",
+    "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/.wasm",
+    "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/love.worker.js",
+    "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/love.wasm",
+    "https://playobsidian.com/love.js",
+    "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/nogame.love"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/love.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/love.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/love.worker.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/love.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/love.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/love.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/love.js",
+      "error": "HTTP 404 for https://playobsidian.com/love.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/nogame.love",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d1fa8791-036c-48cd-b868-490706a5ffe8/2025.08.11-01-PC/nogame.love",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:04:43.469Z",
+  "verifiedAt": "2026-11-18T06:29:48.822Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Arco",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 720
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9978,
+    "rendered": true
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "catchaware",
+  "title": "Catchaware",
+  "type": "HTML",
+  "developer": "PaperHatProjects",
+  "description": "A totally normal captcha game. Solve a rapid-fire series of captchas in quick succession and chase the high score in this short, free browser game.",
+  "tags": [
+    "Simulation",
+    "Casual",
+    "Minimalist",
+    "Funny",
+    "Indie",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "627d6c52-7f04-4889-bb3b-78c15aa0e151",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/index.html",
+  "status": "done",
+  "sizeBytes": 83374569,
+  "assetCount": 14,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/godot.web.template_debug.wasm32.nothreads.wasm",
+    "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/godot.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/godot.audio.position.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.js",
+    "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.wasm",
+    "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.side.wasm",
+    "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.audio.position.worklet.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/godot.web.template_debug.wasm32.nothreads.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/godot.web.template_debug.wasm32.nothreads.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/godot.audio.position.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/godot.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.side.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.audio.position.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/627d6c52-7f04-4889-bb3b-78c15aa0e151/1/.audio.position.worklet.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:20:51.077Z",
+  "verifiedAt": "2026-11-16T14:13:56.905Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "CaptchaWare (DEBUG)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8775,
+    "rendered": true
+  }
+}
